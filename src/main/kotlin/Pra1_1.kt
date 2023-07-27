@@ -12,7 +12,7 @@ fun main() {
     println("$e :Double value")
     var f: Boolean = false
     println("$f :Boolean value")
-    var g: Long = 893759498
+    var g: Long = 893759490
     println("$g :Long value")
     var h: Short = 9
     println("$h :Short value")
